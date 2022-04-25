@@ -2,5 +2,5 @@
 
 ### " yarn " 
 #### in terminal to install dependencies.
-### then => 
-#### " yarn dev " to start...
+### " yarn dev " 
+#### to start...
